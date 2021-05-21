@@ -12,7 +12,11 @@ License: GPL
 ## Requirements
 
 * A graphics card with support for multitexturing and vertex arrays
-* Debian/Ubuntu Linux: `$ sudo apt-get install freeglut3-dev`
+* Debian/Ubuntu Linux: 
+```
+$ sudo apt-get update
+$ sudo apt-get install freeglut3-dev
+```
 
 
 ## Building
